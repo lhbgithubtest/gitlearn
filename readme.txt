@@ -3,12 +3,17 @@ Git is free software distributed GPL
 Add the author name to the last line
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5fbf7bc7debfa1bc274ccfcd344f5b638a80a0b4
 on the dev branch ,test 
 Creating a new branch is quick & simple.
-=======
 on the dev branch ,test
 Creating a new branch is quick AND simple
+<<<<<<< HEAD
 >>>>>>> feature1
 =======
 on the issue branch ,to fix this issue
 >>>>>>> issue
+=======
+>>>>>>> 5fbf7bc7debfa1bc274ccfcd344f5b638a80a0b4
