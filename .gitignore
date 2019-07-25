@@ -5,6 +5,7 @@ Desktop.ini
 
 #python
 *.so
+*.class
 *.egg
 *.egg-info
 dist
